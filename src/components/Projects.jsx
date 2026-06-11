@@ -47,7 +47,7 @@ export default function Projects() {
             href="https://gameverse-pragadeesh.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
-            className="actionBtn w-full sm:w-auto bg-amber-50 text-black text-xs lg:text-sm font-semibold tracking-widest px-4 py-2 lg:px-4.5 lg:py-3.5"
+            className="actionBtn w-full sm:w-auto text-center bg-amber-50 text-black text-xs lg:text-sm font-semibold tracking-widest px-4 py-2 lg:px-4.5 lg:py-3.5"
           >
             VIEW GAMEVERSE
           </a>

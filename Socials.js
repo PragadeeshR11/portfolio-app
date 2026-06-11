@@ -6,7 +6,7 @@ export const socials = [
     id: "1",
     icon: FaGithub,
     name: "GitHub",
-    link: "https://github.com/PragadeeshR11/gameverse-app",
+    link: "https://github.com/PragadeeshR11",
   },
   {
     id: "2",
