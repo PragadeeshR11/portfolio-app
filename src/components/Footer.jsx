@@ -1,4 +1,4 @@
-import { socials } from "../../socials.js";
+import { socials } from "../../Socials.js";
 import { useRef } from "react";
 import useActiveNav from "../hooks/useActiveNav.js";
 import useReveal from "../hooks/useReveal.js";
