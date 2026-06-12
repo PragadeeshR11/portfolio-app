@@ -18,6 +18,7 @@ Hero Section
 Project Showcase
 
 ![Project-Showcase](/screenshots/portfolioproject.png)
+
 ⸻
 
 ## ✨ Key Features
