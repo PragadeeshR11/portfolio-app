@@ -73,7 +73,7 @@ Development Tools
 
 Clone the repository
 
-git clone https://github.com/PragadeeshR11/portfolio-pragadeesh.git
+git clone https://github.com/PragadeeshR11/portfolio-app.git
 
 Install dependencies
 
