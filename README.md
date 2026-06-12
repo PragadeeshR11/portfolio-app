@@ -13,11 +13,11 @@ https://portfolio-pragadeesh.netlify.app/
 
 Hero Section
 
-![Portfolio-Hero](/screenshots/portfoliohero.png)
+![Portfolio-Hero](./screenshots/portfoliohero.png)
 
 Project Showcase
 
-![Project-Showcase](/screenshots/portfolioproject.png)
+![Project-Showcase](./screenshots/portfolioproject.png)
 
 ⸻
 
