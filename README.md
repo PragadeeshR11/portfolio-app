@@ -1,16 +1,125 @@
-# React + Vite
+## Portfolio App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern developer portfolio built with React and Tailwind CSS, designed to showcase projects, technical skills, and frontend development experience through a clean, responsive, and interactive user experience.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Portfolio:
+https://portfolio-pragadeesh.netlify.app/
 
-## React Compiler
+⸻
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+Hero Section
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Portfolio-Hero](/screenshots/portfoliohero.png)
+
+Project Showcase
+
+![Project-Showcase](/screenshots/portfolioproject.png)
+⸻
+
+## ✨ Key Features
+
+- Interactive developer portfolio
+- Typewriter hero animation
+- Sticky navigation with active section tracking
+- Scroll-based animations and transitions
+- Featured project case study showcase
+- Resume integration
+- Contact section with social links
+- Responsive design across devices
+- Mobile-first implementation
+- Component-based React architecture
+- Modern UI built with Tailwind CSS
+
+⸻
+
+## 🛠 Tech Stack
+
+Frontend
+
+- React
+- JavaScript (ES6+)
+- Tailwind CSS
+
+State Management
+
+- Context API
+- Custom React Hooks
+
+Development Tools
+
+- Vite
+- Git
+- GitHub
+
+⸻
+
+## 🏗 Architecture Highlights
+
+- Component-based architecture
+- Reusable UI components
+- Custom React Hooks
+- Responsive design patterns
+- Modular project structure
+- Performance-focused implementation
+
+⸻
+
+## ⚙ Installation
+
+Clone the repository
+
+git clone https://github.com/PragadeeshR11/portfolio-pragadeesh.git
+
+Install dependencies
+
+npm install
+
+Start development server
+
+npm run dev
+
+Build for production
+
+npm run build
+
+Preview production build
+
+npm run preview
+
+⸻
+
+## 📚 What I Learned
+
+- Building responsive React applications
+- Creating reusable component systems
+- Implementing custom Hooks
+- Structuring scalable frontend projects
+- Designing modern UI experiences
+- Improving user experience through animations and interactions
+
+⸻
+
+## 🔮 Future Improvements
+
+- Additional project case studies
+- Dark/Light theme support
+- Enhanced animations and transitions
+- Blog integration
+- Performance optimizations
+
+⸻
+
+## 👨‍💻 Author
+
+**Pragadeesh**
+Frontend Developer | React Developer
+
+LinkedIn
+https://www.linkedin.com/in/pragadeeshr/
+
+GitHub
+https://github.com/PragadeeshR11
